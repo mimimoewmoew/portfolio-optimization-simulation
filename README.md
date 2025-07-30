@@ -1,7 +1,6 @@
 # portfolio optimization simulation
 # Project Overview
 Project Title: Portfolio Optimization and Risk Analysis  
-Level: Beginner  
 Database: yfinance  
 This project simulates 10,000 randomly generated investment portfolios using historical data from ETFs (SPY, QQQ, TLT, GLD, SHY) and applies Modern Portfolio Theory (MPT) to identify optimal allocations.
 
